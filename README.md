@@ -1,4 +1,4 @@
-# LeadPulse — Automated B2B Lead Extraction, Enrichment & MX Verification Engine
+# LeadPulse  Automated B2B Lead Extraction, Enrichment & MX Verification Engine
 
 [![Python](https://img.shields.io/badge/Python-3.13+-3776AB?logo=python&logoColor=white)](https://python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-2.2+-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org)
